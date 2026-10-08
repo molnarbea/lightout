@@ -1,4 +1,5 @@
-import Elem from "./elem"
+
+import Elem from './Elem'
 import './jatekTer.css'
 
 interface ListaProps{
