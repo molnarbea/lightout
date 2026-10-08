@@ -1,0 +1,17 @@
+button{
+    width:100px;
+    height:100px;
+}
+
+.buttonTarolo{
+    display: flex;
+    justify-content: center;
+}
+
+.bekapcsolt{
+background-color: yellow;
+}
+
+.kikapcsolt{
+background-color: black;
+}
